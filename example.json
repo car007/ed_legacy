@@ -1,0 +1,38 @@
+{
+   "markers" : [
+      {
+         "pin" : "green",
+         "text" : "This is a sample marker!\nIt spans two lines of text.",
+         "x" : -104.625,
+         "y" : -0.8125,
+         "z" : -151.906
+      },
+      {
+         "pin" : "carrier",
+         "text" : "This is a sample marker too!",
+         "x" : -247.812,
+         "y" : -43.8438,
+         "z" : 64.0312
+      }
+   ],
+   "lines" : [
+      {
+         "x1" : 0,
+         "y1" : 0,
+         "z1" : 0,
+         "x2" : 1000,
+         "y2" : 0,
+         "z2" : 26000,
+         "color" : "#F00"
+      },
+      {
+         "x1" : 0,
+         "y1" : 0,
+         "z1" : 0,
+         "x2" : -10000,
+         "y2" : 0,
+         "z2" : 45000,
+         "color" : "#F00"
+      }
+   ]
+}
